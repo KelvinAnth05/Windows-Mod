@@ -43,5 +43,5 @@ Configure the Settings: After installation, you can configure the modification f
 
 Enjoy the New Start Menu: Start exploring the Start Menu with a cleaner, more organized, and personalized design.
 
-With PersonalStart, you make your Start Menu feel more personal, more aesthetic, and more unique. Enjoy your new Windows experience! 😊
+With PersonalStart, you make your Start Menu feel more personal, more aesthetic, and more unique. Enjoy your new Windows experience! 
 
