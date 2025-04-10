@@ -32,11 +32,13 @@ Unnecessary elements such as buttons and headers are hidden to provide more spac
 🔽 **Download and Install:**
 Download and install the modification file on **_Windhawk_**.
 
+     https://windhawk.net/
+
 ⚙️ **Install "Windows 11 Start Menu Styler":** 
 
-     1. Go to "Advanced" and paste the code.
+     1. Go to "Advanced" get to "Mod settings" and change it with the PersonalStart code.
    
-     2. Go to "Settings" and choose the "TranslucentStartMenu" Theme
+     2. Go to "Settings" get to "Theme" and choose the "TranslucentStartMenu" 
 
 🌟 Enjoy the New Start Menu:
 Start exploring the Start Menu with a cleaner, more organized, and personalized design.
