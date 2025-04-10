@@ -11,8 +11,8 @@ The user's profile picture and name are placed prominently at the center of the 
 ✨ Minimalist and Modern Design:
 With a transparent theme and sleek borders, PersonalStart makes the Windows Start Menu feel more elegant, light, and uncluttered.
 
-⚙️ Full Customization of UI Elements:
-All UI elements, from size to margins, can be customized to create a focused and organized experience.
+⚙️ Vary Customization of UI Elements:
+All UI elements, from color,size to margins, can be customized to create a focused and organized experience.
 
 🧑‍💻 Enhanced User Experience:
 Unnecessary elements such as buttons and headers are hidden to provide more space for apps and other important elements.
@@ -30,16 +30,18 @@ Unnecessary elements such as buttons and headers are hidden to provide more spac
 **How to Use:**
 
 🔽 Download and Install:
-Download and install the modification file on Windhawk.
+Download and install the modification file on *_*Windhaw_**k.
 
-⚙️ Install "Windows 11 Start Menu Styler": Go to "Advanced" and paste the code.
+⚙️ Install "Windows 11 Start Menu Styler": 
+     -Go to "Advanced" and paste the code.
+     -Go to settings and choose the "TranslucentStartMenu" Theme
 
 🌟 Enjoy the New Start Menu:
 Start exploring the Start Menu with a cleaner, more organized, and personalized design.
 
 
-**Why Choose PersonalStart?**
-With PersonalStart, you don’t just get a more beautiful Start Menu—you get one that’s more personal. Your Start Menu now feels like it’s truly yours—where your identity is front and center. Every time you open the Start Menu, you’ll feel more connected to your system. PersonalStart lets you make your Windows system feel special, focusing on what truly matters to you.
+**Why Choose _PersonalStart_?**
+With _PersonalStart_, you don’t just get a more beautiful Start Menu—you get one that’s more personal. Your Start Menu now feels like it’s truly yours—where your identity is front and center. Every time you open the Start Menu, you’ll feel more connected to your system. PersonalStart lets you make your Windows system feel special, focusing on what truly matters to you.
 **With PersonalStart, you make your Start Menu feel more personal, more aesthetic, and more unique. Enjoy your new Windows experience!**
 
 
