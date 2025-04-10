@@ -20,11 +20,11 @@ Unnecessary elements such as buttons and headers are hidden to provide more spac
 
 **What Has Been Modified?**
 
-**👤Profile Name and Picture Placement:**
+**👤Profile Name and Picture Placement**
 
-**💎 Transparent Design Effects:**
+**💎 Transparent Design Effects**
 
-**🔍 Customized Buttons and Search:**
+**🔍 Customized Buttons and Search**
 
 
 **How to Use:**
