@@ -1,6 +1,6 @@
-**_PersonalStart_** - Personalized Windows Start Menu
+**_PersonalStart_** **- Personalized Windows Start Menu**
 
-PersonalStart is a project that transforms the Windows Start Menu into a more personalized and customized experience. By placing the user's name and profile picture at the center, PersonalStart creates a unique and special Start Menu for each user. This modification not only brings a modern, clean aesthetic but also adds a personal touch that makes your system feel more like home.
+**_PersonalStart_** is a project that transforms the Windows Start Menu into a more personalized and customized experience. By placing the user's name and profile picture at the center, PersonalStart creates a unique and special Start Menu for each user. This modification not only brings a modern, clean aesthetic but also adds a personal touch that makes your system feel more like home.
 
 
 **Key Features:**
@@ -29,19 +29,22 @@ Unnecessary elements such as buttons and headers are hidden to provide more spac
 
 **How to Use:**
 
-🔽 Download and Install:
-Download and install the modification file on *_*Windhaw_**k.
+🔽 **Download and Install:**
+Download and install the modification file on **_Windhawk_**.
 
-⚙️ Install "Windows 11 Start Menu Styler": 
-     -Go to "Advanced" and paste the code.
-     -Go to settings and choose the "TranslucentStartMenu" Theme
+⚙️ **Install "Windows 11 Start Menu Styler":** 
+
+     1. Go to "Advanced" and paste the code.
+   
+     2. Go to "Settings" and choose the "TranslucentStartMenu" Theme
 
 🌟 Enjoy the New Start Menu:
 Start exploring the Start Menu with a cleaner, more organized, and personalized design.
 
 
 **Why Choose _PersonalStart_?**
-With _PersonalStart_, you don’t just get a more beautiful Start Menu—you get one that’s more personal. Your Start Menu now feels like it’s truly yours—where your identity is front and center. Every time you open the Start Menu, you’ll feel more connected to your system. PersonalStart lets you make your Windows system feel special, focusing on what truly matters to you.
+
+With _**PersonalStart**_, you don’t just get a more beautiful Start Menu—you get one that’s more personal. Your Start Menu now feels like it’s truly yours—where your identity is front and center. Every time you open the Start Menu, you’ll feel more connected to your system. PersonalStart lets you make your Windows system feel special, focusing on what truly matters to you.
 **With PersonalStart, you make your Start Menu feel more personal, more aesthetic, and more unique. Enjoy your new Windows experience!**
 
 
